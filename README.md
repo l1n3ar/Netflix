@@ -1,4 +1,4 @@
-Fully functioning clone of the Amazon web app completely using React.js. Involves use of React Hooks.
+Fully functioning clone of the Netflix web app completely using React.js. Involves use of React Hooks.
 
 Feel free to reach out to me for guidance or more information.
 
